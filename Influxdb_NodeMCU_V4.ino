@@ -59,10 +59,10 @@ byte mac[6];
 String str_mac  = ""; 
 
 // Change INFLUX CONFIG
-  #define INFLUXDB_URL "https://eu-central-1-1.aws.cloud2.influxdata.com"
-  #define INFLUXDB_TOKEN "pUSqccneRAiNvKTtiTdnhnlbYynyUcPLtffybhAaZ3Wp6FvlZz15IPu201jKaXfPctbW4iJGeaFZm4mrxgZuGw=="
-  #define INFLUXDB_ORG "e266c442dcee6ac5"
-  #define INFLUXDB_BUCKET "THESABAN"
+  #define INFLUXDB_URL "%%"
+  #define INFLUXDB_TOKEN "%%"
+  #define INFLUXDB_ORG "%%"
+  #define INFLUXDB_BUCKET "%%"
   
 
 // Time zone info 
